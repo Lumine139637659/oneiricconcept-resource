@@ -1,0 +1,11 @@
+{
+    "name": "原石",
+    "icon": "primogemcraft:yuanshi",
+    "category": "oneiricconcept:item_block",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "这里写内容，$(br)这个是换行"
+        }
+    ]
+}
